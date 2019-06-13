@@ -1,2 +1,2 @@
 # activity_tracker
-track you own activities like sport
+track your own activities like sports
