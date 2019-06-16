@@ -3,19 +3,12 @@ let Navbar = {
     let view = /*html*/ `
              <nav class="navbar" role="navigation" aria-label="main navigation">
                 <div class="container">
-                    <div class="navbar-brand">
-                        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-                            <span aria-hidden="true"></span>
-                            <span aria-hidden="true"></span>
-                            <span aria-hidden="true"></span>
-                        </a>
-                    </div>
                     <div id="navbarBasicExample" class="navbar-menu is-active" aria-expanded="false">
                         <div class="navbar-start">
-                            <a class="navbar-item" href="/#/">
+                            <a class="navbar-item" href="/activity_tracker/#/">
                                 Home
                             </a>
-                            <a class="navbar-item" href="/#/about">
+                            <a class="navbar-item" href="/activity_tracker/#/about">
                                 About
                             </a>
                         </div>
