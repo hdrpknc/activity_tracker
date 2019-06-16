@@ -1,11 +1,11 @@
 let Navbar = {
   render: async () => {
     let view = /*html*/ `
-             <nav role="navigation" aria-label="main navigation">
+             <nav class="navbar" role="navigation" aria-label="main navigation">
                     <div id="navbar-brand" class="navbar-brand">
-                        <a class="navbar-item" href="/#/">
+                        <h3>
                             activity tracker
-                        </a>
+                        </h3>
                     </div>
                     <div id="navbar-items" aria-expanded="false">
                         <div >
