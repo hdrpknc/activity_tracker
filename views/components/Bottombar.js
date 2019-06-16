@@ -4,7 +4,7 @@ let Bottombar = {
         <footer class="footer">
             <div class="content has-text-centered">
                 <p>
-                    Footer - ToDo
+                    a hdrpknc production
                 </p>
             </div>
         </footer>
