@@ -2,6 +2,7 @@ let Navbar = {
   render: async () => {
     let view = /*html*/ `
              <nav class="navbar" role="navigation" aria-label="main navigation">
+                <div class="container">
                     <div id="navbar-brand has-text-centered" class="navbar-brand">
                         <h3>
                             activity tracker
@@ -17,6 +18,7 @@ let Navbar = {
                             </a>
                         </div>
                     </div>
+                </div>
             </nav>
         `;
     return view;
